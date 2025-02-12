@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(194, 99, 99);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h1{
+    background-color: black;
+    color: rgb(58, 80, 102);
+}
+h1#principal {
+    background-color: blanchedalmond;
+}
+
+.mark {
+    background-color: rgb(92, 41, 41);
+}
+div:hover {
+    background-color: crimson;
+}
+
+
+
