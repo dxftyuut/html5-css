@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "616eb367fc5e5828",
+        "id": "f9edae3904e34cde",
         "type": "tabs",
         "children": [
           {
-            "id": "56837d247c574f7e",
+            "id": "11e57e58bd9a1609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anotações html e css/Usando github em varias maquinas.md",
+                "file": "anotações html e css/usando imagens de fundo..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Usando github em varias maquinas"
+              "title": "usando imagens de fundo."
             }
           }
         ]
@@ -168,11 +168,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "56837d247c574f7e",
+  "active": "11e57e58bd9a1609",
   "lastOpenFiles": [
-    "anotações html e css/aula 1.md",
     "anotações html e css/Usando github em varias maquinas.md",
+    "c.md",
+    "anotações html e css/usando imagens de fundo..md",
     "Sem título",
+    "anotações html e css/aula 1.md",
     "Sem título 3",
     "Sem título 2",
     "Sem título 1",
