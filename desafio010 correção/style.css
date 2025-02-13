@@ -46,6 +46,7 @@ header {
 header > h1 {
     color: #fff;
     font-family:var(--fonte-destaque);
+    padding: 20px;
 }
 
 header > p {
