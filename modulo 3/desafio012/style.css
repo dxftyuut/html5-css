@@ -71,21 +71,46 @@ section {
     padding-left: 30px;
 }
 
-.normal {
-    background-color: #fff;
-    color: rgb(95, 79, 79);
-}
-
-.imagem {
-    background-color: rgba(0, 0, 0, 0.438);
-    color: #fff;
-    
+section > p {
+    margin-top: 3em;
 }
 
 section.imagem > p {
     background-color: rgba(26, 25, 25, 0.315);
     width: 300px;
+    
 }
+
+
+.imagem {
+    background-color: rgba(0, 0, 0, 0.438);
+    color: #fff;
+    background-size: cover;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.281);
+    background-attachment: fixed;
+}
+
+section#img01 {
+    background-image: url(pacote-d012/imagens/florzinha.jpg);
+    background-position: right center;
+    
+}
+
+section#img02 {
+    background-image:url(pacote-d012/imagens/papeus.jpg);
+    text-shadow: 2px 2px 0px rgb(0, 0, 0);
+    background-position: right center;
+}
+
+
+.normal {
+    background-color: #fff;
+    color: rgb(95, 79, 79);
+}
+
+
+
+
 
 footer {
     background-color: black;
