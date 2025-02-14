@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,7 +169,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e2a76ee8738aac3",
+  "active": "8ae9566a1d699d5e",
   "lastOpenFiles": [
     "anotações html e css/imagems.md",
     "anotações html e css/usando imagens de fundo..md",
