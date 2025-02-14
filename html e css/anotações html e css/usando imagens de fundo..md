@@ -11,11 +11,19 @@ VALE LEMBRAR A imagem se repetirá automaticamente, em seu tamanho padrão; Defi
 
 Mudando o tamanho da imagem de fundo do site background-size: 100% 100%; -> preenche a tela, mas achata e distorce a imagem countain; -> a imagem é 100% exibida, com laterais vazias as vezes cover; -> cobre a tela toda mesmo que tenha que cortar a imagem
 
-Mostrar menos
 
-[
+backgtound para simplificarmos essa teg nos escrevemos 
 
-  
+background
+
+a ordem do shorthand é
+
+color > image > position > repeat > [size] > attachement.
+
+o size não está funcionando 
 
 
-](https://www.youtube.com/create_channel?upsell=comment)
+
+
+
+
