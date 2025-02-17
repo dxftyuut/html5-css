@@ -23,3 +23,18 @@ para alinhar dados da tabela horizontalmente use a teg text align left, rigt e m
 
 para alinhar verticalmente use a teg 
 vertical align top, midle e bottom
+
+para fazer uma tabela listrada você usa a tag 
+
+tbody > tr: nth-child(odd) (odd significa impar)
+
+isso tem que ser feito dentro do style, e apos escrever oque esta acima abra {} e escreva backgroundcolor ( a cor que você quer).
+
+
+![[tabelas.png]]
+
+assim você faz um cabeçalho fixo na tabela.
+
+para fazer um dado da tabela  ocupar mais de uma linha ou coluna. para linha você usa
+rowspan="quantidade que ele vai ocupar" e 
+colspan="número de colunas"

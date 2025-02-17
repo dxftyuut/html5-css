@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tabela002</title>
+    <style>
+
+        body {
+            font-family: 'Franklin Gothic Medium', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        td { 
+            border: 1px solid black;
+            width: 300px;
+            padding: 100px;
+            
+        }
+
+        th { 
+            border: 1px solid black;
+            width: 300px;
+            padding: 10px;
+            font-size: 1.5em;
+            color: #000000;
+            background-color: rgba(58, 58, 58, 0.219);
+        }
+
+        thead > tr > th {
+            position: sticky;
+            top: 0;
+            color: #fff;
+            background-color: rgb(0, 0, 0);
+        }
+
+
+        table {
+            border-collapse: collapse;
+            position: relative;
+        }
+        .num {
+            text-align: right;
+        }
+        #total {
+            background-color: rgba(58, 58, 58, 0.219);
+            font-size: 1.5em;
+        }
+
+        tbody > tr:nth-child(odd) {
+           background-color:  rgb(143, 143, 143);
+        }
+
+        
+        
+
+    </style>
+</head>
+<body>
+    <h1>Os 10 estados com mais populoção no Brasil </h1>
+
+    
+        <table>
+            <caption>
+                População Dos Estados Do Brasil
+            </caption>
+            <thead>
+                <tr>
+                    <th>Estado</th>
+                    <th>população </th>
+                </tr>
+            </thead>
+        
+            <tbody>
+                <tr>
+                    <td>São Paulo</td>
+                    <td class="num">45 973 190</td>
+                </tr>
+                <tr>
+                    <td>Minas Gerais</td>
+                    <td class="num">21 322 692</td>
+                </tr>
+                <tr>
+                    <td>Rio De Janeiro</td>
+                    <td class="num">17 219 679</td>
+                </tr>
+                <tr>
+                    <td>Bahia</td>
+                    <td class="num">14 850 513</td>
+                </tr>
+                <tr>
+                    <td>Paraná</td>
+                    <td class="num">11 824 665</td>
+                </tr>
+                <tr>
+                    <td>Rio Grande Do Sul</td>
+                    <td class="num">11 229 915</td>
+                </tr>
+                <tr>
+                    <td>pernambuco</td>
+                    <td class="num">9 539 029</td>
+                </tr>
+                <tr>
+                    <td>ceará</td>
+                    <td class="num">9 233 656</td>
+                </tr>
+                <tr>
+                    <td>pará</td>
+                    <td class="num">8 664 306</td>
+                </tr>
+                <tr>
+                    <td>Santa Catarina</td>
+                    <td class="num">8 058 447</td>
+                </tr>
+        
+            </tbody>
+            <tfoot>
+                <tr id="total"></trid>
+                    <td>TOTAL</td>
+                    <td class="num"> 157.916.092</td>
+                </tr>
+            </tfoot>
+        </table>
+
+        
+    
+    
+</body>
+</html>

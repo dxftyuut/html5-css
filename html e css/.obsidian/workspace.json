@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbf278dcab677220",
+        "id": "6167fbe6937198c8",
         "type": "tabs",
         "children": [
           {
-            "id": "3d0e5aa8211dbb7a",
+            "id": "fa97ed910f5f8e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tabelas.md",
+                "file": "anotações html e css/tabelas.md",
                 "mode": "source",
                 "source": false
               },
@@ -74,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,10 +168,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3d0e5aa8211dbb7a",
+  "active": "fa97ed910f5f8e5b",
   "lastOpenFiles": [
-    "tabelas.md",
+    "tabelas.png",
     "anotações html e css/imagems.md",
+    "anotações html e css/tabelas.md",
     "anotações html e css/usando imagens de fundo..md",
     "anotações html e css/imgems",
     "anotações html e css/Usando github em varias maquinas.md",
