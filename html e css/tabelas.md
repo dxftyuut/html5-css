@@ -19,3 +19,7 @@ Tbody
 Tfoot 
     TR, TD, TH
 
+para alinhar dados da tabela horizontalmente use a teg text align left, rigt e midle
+
+para alinhar verticalmente use a teg 
+vertical align top, midle e bottom
