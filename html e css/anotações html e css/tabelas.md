@@ -38,3 +38,18 @@ assim você faz um cabeçalho fixo na tabela.
 para fazer um dado da tabela  ocupar mais de uma linha ou coluna. para linha você usa
 rowspan="quantidade que ele vai ocupar" e 
 colspan="número de colunas"
+
+para selecionar linhas e fácil basta na teg style digitar tr e personalizar, agora para personalizar colunas você tem que usar a teg nova que veio com o html 5 que se chama colgrup , dentro desta teg você vai abrir a tegs chamadas col, ( ela nao deve ser fechada com /col, escrava dentro dela mesmo. exemplo:< col exemplo>)
+
+a quantidade de col e a quantidade de tabela e a ordem e da esquerda para direita
+
+exemplo:
+
+![[tabelascol 1.png]]
+
+ depois disso dentro do style coloque col.(a classe que você escolheu e personalize)
+
+
+
+
+
