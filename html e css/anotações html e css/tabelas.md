@@ -51,5 +51,18 @@ exemplo:
 
 
 
+LEMBRE-SE: Tornando tabelas mais responsivas: - Selecionar toda a tabela <table>; - Envelopar dentro de uma <div id="container">; - Em <style>, formatar a 'div[#container](https://www.youtube.com/hashtag/container)' com 'overflow-x: auto;' Ex: div[#container](https://www.youtube.com/hashtag/container) { overflow-x: auto; (conteúdo base fica travado, enquanto rola a tabela lateralmente) }
+
+Mostrar menos
+
+[
+
+  
+
+
+](https://www.youtube.com/create_channel?upsell=comment)
+
+
+
 
 
