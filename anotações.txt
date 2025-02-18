@@ -1,0 +1,83 @@
+aula 9
+html e css, formas
+ de desenvolver sites
+html:hypertext
+(textos sensiveis que te
+ levam para outra pagina)
+css:o CSS ao inves de 
+levar você a outra pagina,
+ela modifica a pagina
+original em cascata
+
+O html e focado em
+conteudo, como textos,
+imagens, videos, tabelas
+
+Já o CSS e focado em 
+design como: cores, sombras,
+tamanhos e posicionamento
+ou seja para atrair a
+atenção de quem visita
+o site.
+
+java script: ele trabalha
+as interações dentro do
+site.
+exemplos: munus,animações,
+popups
+estilo em css
+
+utf-8 da a caracteristica de suportar
+ acentuação
+
+aula 10
+
+Front-end e Back-end
+
+Front-end: e o desenvolvedor
+client-side, ou seja para o 
+cliente, se preocupando com
+chamar atenção do cliente, e
+da parte visual do site
+
+ja o back-end
+
+se preocupa mais com
+o servidor e sua interação
+com o codigo 
+
+full stack: o desenvolvedor
+que manja das duas opçôes acima
+
+aula 11
+
+para fazer os sinais > < sem
+ alterar o programa digite
+&lt;:<
+&gt;:>
+
+title: titulo e <p>:paragrafo 
+<br>:quebra de paragrafo
+
+aula 12
+
+como colocar emoji no seu site
+busque no google por emojipedia 
+escolha o emoji veja o codigo
+dele. Ja no aplicativo index
+abra um paragrafo com p e enter
+para colocar o emoji digite:
+&#x(codigo do emoji);
+
+aula 13
+
+baixei o gimpe
+
+adicionar imagens 
+
+para adicionar imagens
+ basta abrir o index e no body
+escrever img e presionar enter
+depois precione control e espaço
+e selecione a imagem de acordo
+com a pasta que ela esta
