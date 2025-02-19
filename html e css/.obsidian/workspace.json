@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "iframe"
             }
+          },
+          {
+            "id": "29d3d64c29f8f7a1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "64d2090344415da0",
+  "active": "29d3d64c29f8f7a1",
   "lastOpenFiles": [
     "anotações html e css/iframe.md",
     "anotações html e css/tabelas.md",
