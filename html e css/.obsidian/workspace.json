@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6167fbe6937198c8",
+        "id": "2cbf88c0db5f9a6d",
         "type": "tabs",
         "children": [
           {
-            "id": "64d2090344415da0",
+            "id": "a7622caa72c299cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anotações html e css/iframe.md",
+                "file": "anotações html e css/formularios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iframe"
-            }
-          },
-          {
-            "id": "29d3d64c29f8f7a1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "formularios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,11 +168,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "29d3d64c29f8f7a1",
+  "active": "a7622caa72c299cb",
   "lastOpenFiles": [
+    "anotações html e css/formularios.md",
     "anotações html e css/iframe.md",
-    "anotações html e css/tabelas.md",
     "Sem título",
+    "anotações html e css/tabelas.md",
     "anotações html e css/tabelascol 1.png",
     "anotações html e css/tabelascol.png",
     "anotações html e css/tabelas.png",
