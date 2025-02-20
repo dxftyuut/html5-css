@@ -5,3 +5,19 @@ CRIANDO UM FORMULÁRIO SIMPLES: Da maneira mais essencial e simples possível: 1
 a teg method posicionada na frente do cadastro.php selecione a opção post que os dados do seu cliente não vão aparecer na url
 
 o input tem varias opções  e variaveis
+
+LEMBRE-SE: Input de número: <input type="number" name=" " id=" "> Ex: <input type="number" name="media" id="imedia"> Valores mínimo e máximo para o número: min=" " max=" " Ex: <input type="number" name="media" id="imedia" min="0" max="10" placeholder="0 a 10"> Trabalhando com decimais: step=" " (passo, de quanto em quanto o número varia) Ex: <input type="number" name="media" id="imedia" required min="0" max="10" placeholder="0 a 10" step="0.1"> Valor padrão inicial (será exibido no lugar do placeholder): value=" " Ex: <input type="number" name="media" id="imedia" required min="0" max="10" placeholder="0 a 10" step="0.1" value="5"> Input de mês: <input type="month" name=" " id=" "> Ex: <input type="month" name="mes" id="imes" value="2020-07"> Input de data: <input type="date" name=" " id=" "> Ex: <input type="date" name="dia" id="idia" required value="2000-01-01"> Input de hora: <input type="time" name=" " id=" "> Ex: <input type="time" name="hora" id="ihora" required>
+
+Mostrar menosTraduzir para o português
+
+[
+
+  
+
+
+](https://www.youtube.com/create_channel?upsell=comment)
+
+
+Inputs: number: Só aceita números, com botões giratórios pra ajustar valores. Placeholder funciona normalmente. month: Seleção de mês e ano, com menu interativo. Formato enviado: yyyy-mm. date: Para datas completas (dia/mês/ano), com calendário. Formato: yyyy-mm-dd. time: Para hora e minuto (opcionalmente segundos). Formato: hh:mm. ![✅](https://www.youtube.com/s/gaming/emoji/7ff574f2/emoji_u2705.png) Atributos úteis: min/max: Define valores mínimos e máximos. Mostra alerta se ultrapassado. step: Define o intervalo de avanço nos botões giratórios (ex: de 3 em 3). value: Preenche o input com um valor inicial (invalida o placeholder). Dica: Use <label> ou placeholder pra orientar o usuário.
+
+a sub tag required quando e colocada na teg input daz aquele campo ter o preenchimento obrigatorio, a sub tag minlenght faz você ter um minimo de caracteris para enviar
