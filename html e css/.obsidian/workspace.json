@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "post",
+                "query": "mes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c758da5e0e57fb79",
@@ -170,7 +169,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a7622caa72c299cb",
+  "active": "8ae9566a1d699d5e",
   "lastOpenFiles": [
     "anotações html e css/formularios.md",
     "anotações html e css/iframe.md",
