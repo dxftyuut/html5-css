@@ -2,7 +2,7 @@
 
 /* tela deitada */
 
-body {
+body, html {
     background:url(../../imagens/cev-landscape.jpg);
     
 }
