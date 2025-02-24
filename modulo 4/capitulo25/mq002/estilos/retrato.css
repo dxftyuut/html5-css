@@ -2,9 +2,9 @@
 
 /* tela em pé */
 
-body, html {
+body {
     background: url(../../imagens/cev-portrait.jpg) ;
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: left bottom;
+    background-position: center bottom;
 }
