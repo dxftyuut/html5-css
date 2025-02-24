@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+* {
+    margin: 4px;
+    padding: 2px;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    font-size: larger;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>a {color: black};</style>
+    <title>Form005</title>
+</head>
+<body>
+    <h1>exemplo de formulario</h1>
+    <p>
+        <a href="form001.html">form 1</a>
+        <a href="form002.html">form 2</a>
+        <a href="form03.html">form3</a>
+        <a href="form004.html">form 4</a>
+    </p>
+
+    <form action="fdddddbd.php" method="post" autocomplete="on">
+
+        <label for="icor">cor:</label>
+        <input type="color" name="cor" id="icolor" value="#fff">
+
+        <p>
+            <label for="inivel">nivel de satsfação</label>
+                <input type="range" name="nivel" id="inivel" min="0" max="10" value="5" oninput="ival.innerHTML = Number(inum.value)">
+                <output id="inivel">5</output>
+        </p>
+
+        <p>
+            <label for="ifile"></label>
+            <input type="file" name="foto" id="ifoto">
+        </p>
+
+        <p>
+            <label for="imsg">deixe uma mensagem</label><br>
+            <textarea name="msg" id="imsg"></textarea>
+        </p>
+
+        <p>
+            <input type="submit" value="enviar">
+            <input type="reset" value="limpar">
+        </p>
+
+    </form>
+
+    
+</body>
+</html>
