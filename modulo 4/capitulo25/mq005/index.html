@@ -10,10 +10,10 @@
 <body>
     <header>
         <h1>meu site</h1>
-        <span class="material-symbols-outlined">
+        <span class="material-symbols-outlined" id="burguer" onclick="clickMenu()">
             menu
             </span>
-        <menu>
+        <menu id="menu">
             <ul>
                 <li><a href="#">opção 1</a></li>
                 <li><a href="#">opção 2</a></li>
@@ -313,6 +313,15 @@
                 </p>
         </article>
     </main>
+    <script>
+         function clickMenu() {
+            if (menu.style.display == 'block') {
+                menu.style.display = 'none'
+            }else {
+                menu.style.display = 'block'
+            }
+         }
+    </script>
 
     
 </body>
