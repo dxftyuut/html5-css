@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+/* todas as demais midias */
+
+/* typical device breackpoints
+------------------------------
+pequenas telas: até 600px
+celular: de 600 até 768px
+tablet: 768px até 1200px 
+computador: 992px até 1200px
+grandes telas: acima de 1200px
+*/
+
+@media print { /*impressão*/
+    body {
+        background-image: url(../imagens/back-print.jpg);
+    }
+
+    img#tv {
+        display: none;
+    }
+    img#impressora {
+        display: block;
+    }
+    img#tablet {
+        display: none;
+    }
+    img#pc {
+        display: none;
+    }
+    img#celular {
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {/*tablet*/
+
+    body, html {
+        background: url(../imagens/back-tablet.jpg);
+    }
+    img#tv {display: none;}
+    img#impressora {display: none;}
+    img#tablet { display: block;}
+    img#pc {display: none; }
+    img#celular {display: none;}
+    
+}
+
+@media screen and (min-width:992px) and (max-width:1200px) /*computador*/
+{ 
+    body, html {
+        background: url(../imagens/back-pc.jpg) no-repeat;
+        background-position: center;
+    }
+
+    img#tv {display: none;}
+    img#impressora {display: none;}
+    img#tablet { display: none;}
+    img#pc {display: block; }
+    img#celular {display: none;}
+}
+
+@media screen and (min-width: 1200px) {  /*grandes telas, vulgo tv*/
+
+    body, html {
+        background-image: url(../imagens/back-tv.jpg);
+        background-position: center left;
+    }
+
+    img#tv {display: block;}
+    img#impressora {display: none;}
+    img#tablet { display: none;}
+    img#pc {display: none; }
+    img#celular {display: none;}
+}

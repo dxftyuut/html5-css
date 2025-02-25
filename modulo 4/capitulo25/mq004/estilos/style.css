@@ -11,7 +11,8 @@
 }
 
 body, html {
-    background: black url(../imagens/back-phone.jpg) no-repeat center center;
+    background: black url(../imagens/back-phone.jpg) no-repeat top center;
+    
 }
 
 main {
@@ -21,6 +22,16 @@ main {
     border-radius: 10px;
     padding: 10px;
 }
+
+h1 {
+    text-align: center;
+}
+
+img { 
+    display: block;
+    margin: auto;
+}
+
 
 img#tv {
     display: none;
@@ -33,4 +44,7 @@ img#tablet {
 }
 img#pc {
     display: none;
+}
+img#celular {
+    display: block;
 }
