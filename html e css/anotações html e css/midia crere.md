@@ -16,3 +16,4 @@ para fazer sites para diferentes dispositivos, você pode criar um link de css e
 depois abra { e coloque as configurações}
 
 isso e chamado de Device breakpoints
+
