@@ -40,7 +40,7 @@ menu > ul  {
     list-style-type: none;
 }
 
-body > header > ul > li > a {
+ menu > ul > li > a {
     background-color: rgb(87, 87, 87);
     display: block;
     padding: 10px;
