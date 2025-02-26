@@ -7,9 +7,9 @@
 
     <title>meia-query</title>
     <link rel="stylesheet" href="estilos/style.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="estilos/media-query.css">
 </head>
-<body>
+<body onresize="mudouTamanho ()">
     <header>
         <h1>meu site</h1>
         <span class="material-symbols-outlined" onclick="clickMenu ()" id="burguer">
@@ -42,6 +42,14 @@
            } else {
             itens.style.display = 'block'
            }
+        }
+
+        function mudouTamanho () {
+            if (window.innerWidth >= 768) {
+                itens.style.display = 'block'
+            } else {
+                itens.style.display = 'none'
+            }
         }
     </script>
 
