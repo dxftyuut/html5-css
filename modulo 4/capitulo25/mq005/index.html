@@ -15,7 +15,7 @@
         <span class="material-symbols-outlined" id="burguer" onclick="clickMenu()">
             menu
             </span>
-        <menu id="menu">
+        <menu id="itens">
             <ul>
                 <li><a href="#">opção 1</a></li>
                 <li><a href="#">opção 2</a></li>
@@ -318,18 +318,16 @@
     <script>
         function mudouTamanho() {
             if (window.innerWidth >= 768) {
-                menu.style.display = 'block'}
-            else {
-                menu.style.display = 'none'
-            }
+                menu.style.display = 'block'
+           }
+           else {menu.style.display = 'none'}  
             }
         
          function clickMenu() {
-            if (menu.style.display == 'block') {
-                menu.style.display = 'none'
+            if (itens.style.display == 'block') {
+                itens.style.display = 'none'
             }else {
-                menu.style.display = 'block'
-                menu.style.display = 'none'
+                itens.style.display = 'block'
             }
          }
     </script>

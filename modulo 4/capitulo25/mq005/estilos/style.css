@@ -28,12 +28,13 @@ span#burguer {
 }
 
 span#burguer:hover {
-    background-color: #fff;
+    background-color: #6d6d6db9;
     color: black;
 }
 
 menu {
     display: none;
+    
 }
 
 menu > ul  {
