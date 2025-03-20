@@ -1,0 +1,63 @@
+@charset "UTF-8"; 
+
+/* Definindo uma fonte padrão para todo o conteúdo */
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h4 {
+    margin-bottom: 1px;
+    font-size: 15px;
+}
+
+p {
+    margin-top: 1px;
+    text-align: right;
+    font-size: 12px;
+}
+
+table {
+    width: 100%; /* Agora a tabela ocupa toda a largura disponível */
+    height: auto; /* Ajusta a altura conforme o conteúdo */
+    border-collapse: collapse; /* Remove espaçamento entre as bordas das células */
+    margin-bottom: 20px; /* Adiciona um espaço abaixo da tabela */
+}
+
+/* Estilos para as células */
+td {
+    padding: 10px;
+    font-size: 12px;
+    text-align: left;
+    word-wrap: break-word; /* Garante que o texto não "quebre" o layout */
+    max-width: 200px; /* Impede que as células fiquem muito largas */
+}
+
+/* Cabeçalho com fundo cinza claro */
+thead {
+    background-color: #f4f4f4;
+}
+
+/* Linha alternada com fundo cinza claro */
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Estilo para o link */
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Definindo o iframe com tamanhos fixos */
+iframe {
+    width: 100%; /* Tornar o iframe responsivo */
+    height: 250px;
+    border: none;
+    margin-top: 20px;
+}

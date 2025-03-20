@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00fbc9c1bed31752",
+            "id": "5f9f7728cddd8840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "anotações html e css/midia crere.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "media cre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,18 +169,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "00fbc9c1bed31752",
+  "active": "5f9f7728cddd8840",
   "lastOpenFiles": [
-    "anotações html e css/midia crere.md",
-    "2025-02-21.md",
-    "Sem título.canvas",
     "anotações html e css/formularios.md",
-    "anotações html e css/iframe.md",
-    "Sem título",
+    "anotações html e css/midia crere.md",
     "anotações html e css/tabelas.md",
-    "anotações html e css/tabelascol 1.png",
-    "anotações html e css/tabelascol.png",
-    "anotações html e css/tabelas.png",
+    "modulo 5/flex box.md",
+    "imagems/4rr.png",
+    "imagems",
+    "imagems/6yfyiuf.png",
+    "anotações html e css/iframe.md",
+    "imagems/2025-03-07.md",
+    "imagems/Sem título.canvas",
+    "imagems/tamanhos.png",
+    "imagems/red.png",
+    "imagems/fyf.png",
+    "imagems/ytty.png",
+    "index.html",
+    "imagems/exemplo 1.png",
+    "imagems/exemplo.png",
+    "imagems/justfy].png",
+    "imagems/anotação flex box.png",
+    "modulo 5",
+    "2025-02-21.md",
     "anotações html e css/imagems.md",
     "anotações html e css/usando imagens de fundo..md",
     "anotações html e css/imgems",

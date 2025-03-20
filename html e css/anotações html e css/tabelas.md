@@ -14,8 +14,10 @@ oque cada teg faz.
 tabelas grandes anatomia.
 Thead (cabeça)
 	 TR, TD, TH
+	 
 Tbody
     TR, TD, TH
+    
 Tfoot 
     TR, TD, TH
 
@@ -29,6 +31,8 @@ para fazer uma tabela listrada você usa a tag
 tbody > tr: nth-child(odd) (odd significa impar)
 
 isso tem que ser feito dentro do style, e apos escrever oque esta acima abra {} e escreva backgroundcolor ( a cor que você quer).
+
+se quiser deixar em sequencia par usee even ao inves de odd
 
 
 ![[tabelas.png]]
