@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "media cre",
+                "query": "java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,7 +169,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5f9f7728cddd8840",
+  "active": "8ae9566a1d699d5e",
   "lastOpenFiles": [
     "anotações html e css/formularios.md",
     "anotações html e css/midia crere.md",
